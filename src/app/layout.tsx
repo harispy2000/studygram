@@ -25,7 +25,7 @@ export const metadata = {
     description: 'Collaborative learning platform for students',
     type: 'website',
   },
-  metadataBase: new URL('https://studygram.vercel.app'),
+  metadataBase: new URL('https://studygram-one.vercel.app'),
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
